@@ -31,7 +31,7 @@
     ],
     "dependencies": {
         "@carto/cartonik": "^0.9.1",
-        "@carto/mapnik": "3.6.2-carto.16",
+        "@carto/mapnik": "https://github.com/Radik24/node-mapnik#v3.6.2-carto",
         "canvas": "^2.4.1",
         "carto": "github:cartodb/carto#0.15.1-cdb5",
         "cartodb-psql": "^0.14.0",
@@ -53,7 +53,7 @@
         "express": "4.16.3",
         "mocha": "^7.2.0",
         "nyc": "^15.0.0",
-        "redis": "2.8.0",
+        "redis": "4.0.6",
         "step": "1.0.0"
     },
     "scripts": {
